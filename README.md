@@ -40,6 +40,7 @@ This is a collection of various repositories related to open source AI projects 
 - [OpenChat](https://github.com/openchatai/OpenChat): LLMs custom-chatbots console
 - [mlc-llm](https://github.com/mlc-ai/mlc-llm): Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [musegpt](https://github.com/greynewell/musegpt): Run local LLMs inside your favorite digital audio workstation!
+- [OthorAI](https://github.com/othorai/othor.ai): An AI-native alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. 
 
 
 ## Security
